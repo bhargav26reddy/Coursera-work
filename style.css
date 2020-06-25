@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    margin-top:0.2%;
+    background-image:url(kimberly-farmer-lUaaKCUANVI-unsplash.jpg);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family:serif;
+    font-size: 20px;
+    height: 100vh;
+}
+div{
+    position: absolute;
+    top:50%;
+    left: 57%;
+    transform: translate(-14%,-50%);
+}
+.btn{
+    border: 1px solid rgba(6, 18, 17, 0.46);
+    padding: 1%;
+    margin: 1%;
+    background-color: rgba(240, 110, 41, 0.91);
+    color: rgba(230, 230, 230, 0.72);
+    text-decoration:none;
+}
+h1{
+    margin-bottom: 1%;
+}
+.btn:hover{
+    text-decoration: underline;
+    
+} 
+div1{
+    float: right;
+    margin-top: 1%;
+    margin-right:6%;
+    width: 20%;
+    
+}
+.eee{
+    border: 1px solid #fff;
+    padding-right: 4%;
+    margin: 2%;
+    background-color: #1a1717;
+    color: rgb(247, 222, 222);
+    text-decoration: none;
+    
+}
+.eee:hover{
+    background-color: coral;
+}
+.fp{
+    margin-left: 8%;
+    margin-top: 50%;
+    color: aliceblue;
+}
